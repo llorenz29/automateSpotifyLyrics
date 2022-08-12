@@ -4,10 +4,10 @@ import json
 import time
 import lyricsgenius
 
-SPOTIFY_CLIENT_ID = '644c1c2f06004cb38def04c9642bb301'
-SPOTIFY_CLIENT_SECRET = 'c84452d7019c4aad9003149adcc57cb9'
+SPOTIFY_CLIENT_ID = 'XXX'
+SPOTIFY_CLIENT_SECRET = 'XXX'
 SPOTIFY_CLIENT_URI = "https://google.com"
-GENIUS_ACCESS_TOKEN = 'yAeBehh7VL7uXMvgEOrzEsoKZtJAetMFetFRm9pdpDNoVBVyxrzLPlbHAfjADQJw'
+GENIUS_ACCESS_TOKEN = 'XXX'
 
 scope = 'user-read-currently-playing'
 
